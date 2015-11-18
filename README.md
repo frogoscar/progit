@@ -103,8 +103,3 @@ Merge Conflicts can occur when changes are made to a file at the same time. A lo
 
 Merge conflicts are beyond the scope of this course, but if you're interested in reading more, take a look the section of the Pro Git book on how conflicts are presented.
 
-
-
-
-
-
